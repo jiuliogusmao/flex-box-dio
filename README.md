@@ -1,7 +1,7 @@
 <h1 align="center"> project flexbox DIO</h1>
 <h2 align="center">Curso posicionando Elementos com Flexbox em CSS com Karen Santos da DIO</h2>
 <br>
-## Layout:
+<h2>Layout:</h2>
 <img src="flex-projeto/img-flex-turismo.png"/>
 <br>
 <strong>Resumo do curso:</strong><br>
