@@ -4,6 +4,8 @@
 <h2>Layout:</h2>
 <img src="flex-projeto/img-flex-turismo.png"/>
 <br>
+<h2>Design responsivo:</h2>
+<img src="flex-projeto/img-flex-turismo-design-responsivo.png"/>
 <strong>Resumo do curso:</strong><br>
 :heavy_check_mark: Estrutura básica e prática com display:flex;<br>
 :heavy_check_mark: Estrutura básica e prática flex direction;<br>
